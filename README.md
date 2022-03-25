@@ -1,3 +1,3 @@
-# Um simples teste
+# Segue acima alguns exercícios
 
-- não tem nada para ver aqui kkkk
+feitos nos cursos de JavaScript, HTML5 e CSS3 do Curso em video
