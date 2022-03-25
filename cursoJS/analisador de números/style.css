@@ -1,0 +1,28 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-color: rgb(83, 147, 243);
+    font: normal 12pt Georgia;
+}
+header{
+    color: aliceblue;
+    text-align: center;
+}
+section{
+    background-color:aliceblue;
+    border-radius: 10px;
+    padding: 15px; /*acouchoamento*/
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(62, 113, 133);
+    
+}
+footer{
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+}
+#flista{
+    width: 150px;
+}

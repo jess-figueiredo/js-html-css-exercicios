@@ -1,0 +1,15 @@
+*{
+    font-family:'Courier New', Courier, monospace;
+}
+input{
+    width: 90px;
+}
+main{
+    background-color: rgb(156, 223, 243);
+    height:200px;
+    width: 500px;
+    border-radius: 10px;
+    text-align: center;
+    margin:auto;
+   padding: 30px;
+   box-shadow: 5px 5px 10px rgb(33, 63, 75)}
